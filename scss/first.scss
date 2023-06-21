@@ -1,0 +1,13 @@
+.container{
+    & .first__part {
+        & .h1 {
+            font-size: 20px;
+            font-weight: 700;
+        };
+
+        & .first__paragraph {
+            font-size: 15px;
+            color:#b0b04b;;
+        }
+    }
+}

@@ -1,0 +1,13 @@
+.container {
+    & .second__part {
+        & .h3 {
+            font-size: 20px;
+            font-weight: 400;
+        }
+
+        & .second__paragraph {
+            font-size: 18px;
+            color:burlywood; 
+        }
+    }
+}
